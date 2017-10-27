@@ -3,9 +3,9 @@
 from selenium import webdriver
 import unittest
 from time import sleep
-from muxiaozhan.Test.test.Fortest.Log import GetConfig
-from muxiaozhan.Test.test.Fortest.Log import ConnetDb
-from muxiaozhan.Test.test.Fortest.Log import WriteLog
+from AutoTest.Test.test.Fortest.Log import GetConfig
+from AutoTest.Test.test.Fortest.Log import ConnetDb
+from AutoTest.Test.test.Fortest.Log import WriteLog
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -43,7 +43,7 @@ class MyTest(unittest.TestCase):
         else:
             WriteLog("登录失败：用户名或密码有误")
 
-    def check_phone(self,xpathele):
+    def check_phone(self, xpathele):
         if self.driver.find_element_by_xpath(xpathele).text == "请输入正确的手机号":
             WriteLog("手机号码输入不正确")
             phoneflag = 2
@@ -57,7 +57,7 @@ class MyTest(unittest.TestCase):
             phoneflag = 1
         return phoneflag
 
-    def check_pwd(self,xpathele):
+    def check_pwd(self, xpathele):
         if self.driver.find_element_by_xpath(xpathele).text == "请输入正确的密码":
             WriteLog("密码不正确")
             pwdflag = 2
@@ -68,7 +68,7 @@ class MyTest(unittest.TestCase):
             pwdflag = 1
         return pwdflag
 
-    def check_user(self,xpathele):
+    def check_user(self, xpathele):
         if self.driver.find_element_by_xpath(xpathele).text == "用户名格式不正确":
             WriteLog("用户名格式不正确")
             userflag = 2
@@ -76,18 +76,26 @@ class MyTest(unittest.TestCase):
             userflag = 1
         return userflag
 
-    def get_toast(self, xpathele):
+    def get_toast(self, driver, xpathele):
         try:
             location = (By.XPATH, xpathele)
-            WebDriverWait(self.driver, 2, 0.5).until(EC.presence_of_element_located(location))
-            alert = self.driver.find_element_by_xpath(xpathele)
+            WebDriverWait(driver, 5, 0.5).until(EC.presence_of_element_located(location))
+            alert = driver.find_element_by_xpath(xpathele)
             msg = alert.get_attribute('textContent')
             msg = msg.strip()
             toastflag = '2'
-            print(msg + "    " + toastflag)
+            #print(msg + "    " + toastflag)
         except:
             toastflag = '1'
-        return toastflag
+        return toastflag, msg
+
+    def check_toast_msg(self,toast_msg):
+        if msg == "验证码已过期，请重新获取":
+            msg_id = '2'
+        elif "您输入的用户名或密码错误" == msg[0:12]:
+            tmsg_id = '3'
+        else:
+            msg_id = '1'
 
     '''
     def check_code(self):

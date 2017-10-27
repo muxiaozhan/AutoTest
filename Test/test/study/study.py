@@ -7,8 +7,9 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+#from AutoTest.Test.test.Fortest.UITest import MyTest
 
-
+'''
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)
 driver.set_window_size(400, 800)
@@ -21,6 +22,15 @@ driver.find_element_by_xpath('//*[@id="app"]/div/div/div[2]/div/div[1]/input').s
 sleep(2)
 driver.find_element_by_xpath('//*[@id="app"]/div/div/div[2]/div/div[2]/input').send_keys("zhang12345")
 driver.find_element_by_xpath('//*[@id="app"]/div/div/div[2]/button').click()
+
+mytest = MyTest()'''
+
+#result = mytest.get_toast(driver, "/html/body/div[2]")
+msg = "您输入的用户名或密码错误123"
+if "您输入的用户名或密码错误" == msg[0:12]:
+    print("ok")
+#print(result)
+'''
 location = (By.XPATH, "/html/body/div[2]")
 WebDriverWait(driver, 2, 0.5).until(EC.presence_of_element_located(location))
 alert = driver.find_element_by_xpath('/html/body/div[2]')
@@ -30,10 +40,12 @@ toastflag = '2'
 print(msg+"    "+toastflag)
 
 
-sleep(3)
+sleep(1)
 
 driver.close()
-'''
+
+#您输入的用户名或密码错误，今天还有2次机会。
+
 def get_toast(browser, click_xpath):  # 获取弹窗信息
     xpath = get_xpath_conf('alert')
     browser.find_element_by_xpath(click_xpath).click()
