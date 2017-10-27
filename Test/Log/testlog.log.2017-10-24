@@ -1,0 +1,57 @@
+2017-10-24 11:26:54,361 -Example-DEBUG-log-[line:64]:测试输出日志
+2017-10-24 11:26:54,361 -Example-INFO-log-[line:65]:测试输出日志
+2017-10-24 11:27:37,643 -Example-DEBUG-log-[line:64]:测试输出日志
+2017-10-24 11:27:37,643 -Example-INFO-log-[line:65]:测试输出日志
+2017-10-24 11:27:58,594 -Example-DEBUG-log-[line:64]:测试输出日志
+2017-10-24 11:27:58,594 -Example-INFO-log-[line:65]:测试输出日志
+2017-10-24 11:30:27,239 -Example-DEBUG-study-[line:20]:测试输出日志
+2017-10-24 11:30:37,323 -Example-DEBUG-study-[line:20]:测试输出日志
+2017-10-24 11:40:18,664 -Example-DEBUG-log-[line:62]:测试日志输出
+2017-10-24 11:45:48,270 -Example-ERROR-log-[line:68]:错误测试日志输出
+2017-10-24 11:46:12,853 -Example-ERROR-log-[line:68]:有错误，日志:测试日志输出
+2017-10-24 13:15:37,994 -Example-ERROR-log-[line:68]:有错误，日志:测试日志输出
+2017-10-24 13:15:37,998 -Example-DEBUG-log-[line:62]:测试日志输出test
+2017-10-24 13:15:50,981 -Example-ERROR-log-[line:68]:有错误，日志:测试日志输出
+2017-10-24 13:15:50,981 -Example-DEBUG-log-[line:62]:测试日志输出testoutput
+2017-10-24 13:17:30,367 -Example-ERROR-log-[line:68]:有错误，日志:测试日志输出
+2017-10-24 13:17:30,367 -Example-DEBUG-log-[line:62]:测试日志输出testoutput
+2017-10-24 13:20:01,398 -Example-DEBUG-log-[line:62]:<Response [200]>
+2017-10-24 13:20:42,314 -Example-DEBUG-log-[line:62]:<Response [200]>
+2017-10-24 13:21:00,972 -Example-DEBUG-log-[line:62]:<Response [200]>
+2017-10-24 13:21:26,517 -Example-DEBUG-log-[line:62]:<Response [200]>
+2017-10-24 13:22:06,340 -Example-DEBUG-log-[line:62]:<Response [400]>
+2017-10-24 13:23:06,454 -Example-DEBUG-log-[line:62]:成功，Status=200
+2017-10-24 13:24:19,820 -Example-DEBUG-log-[line:62]:成功，Status=200
+2017-10-24 13:24:26,264 -Example-DEBUG-log-[line:62]:成功，Status=200
+2017-10-24 13:28:10,732 -Example-DEBUG-log-[line:62]:"Status:"+respone.status_code+"
+"+respone.json()["msg"]
+2017-10-24 13:28:45,945 -Example-DEBUG-log-[line:62]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 13:45:11,830 -Example-DEBUG-log-[line:62]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 14:29:28,587 -Example-DEBUG-log-[line:62]:成功，Status=200
+2017-10-24 14:29:53,933 -Example-DEBUG-log-[line:62]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 14:48:42,243 -Example-DEBUG-Log-[line:62]:成功，Status=200
+2017-10-24 14:49:02,959 -Example-DEBUG-Log-[line:62]:成功，Status=200
+2017-10-24 14:57:15,624 -Example-DEBUG-Log-[line:62]:成功，Status=200
+2017-10-24 15:17:47,280 -Example-DEBUG-Log-[line:62]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 15:18:47,356 -Example-DEBUG-Log-[line:62]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 15:25:10,209 -Example-DEBUG-Log-[line:70]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 15:25:44,443 -Example-DEBUG-Log-[line:70]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 15:26:54,638 -Example-DEBUG-Log-[line:70]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 15:36:19,253 -Example-DEBUG-Log-[line:73]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 16:02:52,490 -Example-DEBUG-Log-[line:76]:ceshi
+2017-10-24 16:04:26,463 -Example-DEBUG-Log-[line:77]:Status:400
+参数错误:参数paging.pageIndex的值不合法
+2017-10-24 16:04:35,541 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-24 16:18:51,931 -Example-DEBUG-Log-[line:77]:ceshi
+2017-10-24 17:56:16,121 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-24 17:56:33,804 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-24 17:59:03,494 -Example-DEBUG-Log-[line:77]:成功，Status=200

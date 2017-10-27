@@ -1,0 +1,150 @@
+2017-10-25 10:04:41,200 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:04:41,450 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:05:36,408 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:05:36,658 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:23:16,135 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:23:16,385 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:23:39,750 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:23:40,000 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:26:49,872 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 10:26:50,142 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:05:22,975 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:05:23,285 -Example-DEBUG-Log-[line:77]:Status:401
+未登录
+2017-10-25 11:06:52,740 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:06:52,870 -Example-DEBUG-Log-[line:77]:Status:401
+未登录
+2017-10-25 11:12:52,746 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:13:19,500 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:13:19,806 -Example-DEBUG-Log-[line:77]:Status:401
+未登录
+2017-10-25 11:15:37,130 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:15:37,401 -Example-DEBUG-Log-[line:77]:Status:401
+未登录
+2017-10-25 11:16:32,410 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:16:32,665 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:37:25,953 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:37:26,256 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:39:02,146 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:39:02,390 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:39:32,276 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:39:48,286 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:39:48,562 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:39:56,130 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:42:55,429 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:44:28,154 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:50:26,107 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:52:13,600 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:52:21,378 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:53:31,380 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:54:17,994 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:54:48,513 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:54:48,839 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:55:26,962 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:55:31,464 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:55:31,728 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:56:31,817 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:56:31,988 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:57:27,120 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:57:27,383 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 11:57:30,856 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 11:57:31,101 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 13:41:51,747 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:42:54,856 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:42:55,106 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 13:43:06,040 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:43:06,289 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 13:43:46,789 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:44:26,118 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:45:03,296 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:45:03,536 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 13:45:12,944 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:45:39,511 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:45:50,696 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:47:11,061 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:47:11,255 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:47:49,919 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:47:50,173 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:55:52,676 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:55:52,806 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:55:53,062 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:55:53,186 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:56:54,474 -Example-DEBUG-Log-WriteLog-[line:77]:成功，Status=200
+2017-10-25 13:56:54,597 -Example-DEBUG-Log-WriteLog-[line:77]:成功，Status=200
+2017-10-25 13:56:54,844 -Example-DEBUG-Log-WriteLog-[line:77]:成功，Status=200
+2017-10-25 13:56:54,971 -Example-DEBUG-Log-WriteLog-[line:77]:成功，Status=200
+2017-10-25 13:57:25,652 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:57:25,783 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:57:26,094 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:57:40,298 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:57:40,426 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:57:40,673 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:58:08,537 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:58:08,662 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:58:08,911 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 13:58:09,029 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:09,769 -Example-DEBUG-Log-C:\AutoTest\muxiaozhan\Test\test\Fortest\Log.py-[line:77]:成功，Status=200
+2017-10-25 14:00:09,894 -Example-DEBUG-Log-C:\AutoTest\muxiaozhan\Test\test\Fortest\Log.py-[line:77]:成功，Status=200
+2017-10-25 14:00:10,144 -Example-DEBUG-Log-C:\AutoTest\muxiaozhan\Test\test\Fortest\Log.py-[line:77]:成功，Status=200
+2017-10-25 14:00:10,271 -Example-DEBUG-Log-C:\AutoTest\muxiaozhan\Test\test\Fortest\Log.py-[line:77]:成功，Status=200
+2017-10-25 14:00:45,562 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:45,688 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:45,939 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:57,723 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:57,859 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:00:58,131 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:01:14,203 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:01:14,322 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:01:14,557 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:01:14,683 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:10:21,513 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:10:21,667 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 14:10:21,816 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 14:12:05,252 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:12:05,568 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 14:12:05,870 -Example-DEBUG-Log-[line:77]:Status:401    未登录
+2017-10-25 14:14:53,876 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:15:31,624 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:15:31,752 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:15:31,920 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:24:10,188 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:24:18,868 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:24:19,216 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:26:12,975 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:26:54,621 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:29:22,271 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:30:00,322 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:33:07,807 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:33:41,508 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:34:09,391 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:34:12,992 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:34:13,273 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:34:33,562 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:34:33,683 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:35:21,160 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:35:21,287 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:42:08,163 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 14:42:16,908 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:00:08,402 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:00:42,966 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:00:59,017 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:01:25,894 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:02:04,871 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:02:05,097 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:02:05,276 -Example-DEBUG-Log-[line:77]:Status:400    房车品牌名称不能重复！
+2017-10-25 15:03:20,050 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:03:54,714 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:04:34,968 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:05:05,942 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:05:38,581 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:06:27,379 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:06:27,508 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:06:27,631 -Example-DEBUG-Log-[line:77]:Status:400    房车品牌名称不能重复！
+2017-10-25 15:10:47,731 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:10:47,856 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:10:47,975 -Example-DEBUG-Log-[line:77]:Status:400    房车品牌名称不能重复！
+2017-10-25 15:12:00,065 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:12:19,382 -Example-DEBUG-Log-[line:77]:ceshi
+2017-10-25 15:12:55,584 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:12:55,903 -Example-DEBUG-Log-[line:77]:成功，Status=200
+2017-10-25 15:12:56,060 -Example-DEBUG-Log-[line:77]:Status:400    房车品牌名称不能重复！

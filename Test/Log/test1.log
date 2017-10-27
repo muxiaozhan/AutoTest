@@ -1,0 +1,7 @@
+2017-10-20 18:46:06,158 - Example - DEBUG - 测试输出日志
+2017-10-20 18:48:22,600 - Example - DEBUG - 测试输出日志
+2017-10-20 18:48:23,657 - Example - DEBUG - 测试输出日志
+format=2017-10-20 18:56:35,525 -Example-DEBUG-log-debug-[line:66]:aaaa
+format=2017-10-23 13:07:59,261 -Example-DEBUG-log-debug-[line:66]:测试输出日志
+format=2017-10-23 13:13:55,288 -Example-DEBUG-log-<module>-[line:67]:测试输出日志
+format=2017-10-23 13:19:39,259 -Example-DEBUG-log-<module>-[line:67]:测试输出日志
